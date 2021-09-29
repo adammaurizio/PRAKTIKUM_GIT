@@ -21,6 +21,6 @@ Kelas   : Algoritma Pemrograman SD-A1
 - Setelah itu, kita akan menambahkan file tersebut dengan perintah **$ git add nama_file**.
 - Lanjutkan untuk mengerjakan file **README .md** dan apabila sudah selesai, kita bisa cek lagi statusnya menggunakan **$ git status**.
 - Setelah itu, kita add lagi filenya ke dalam **staging area** dan melakukan commit. Pada tahap ini, Git sudah berhasil menyimpan 2 jenis versi file yaitu file sebelum penambahan dan file akhir yang sudah selesai.
-- Berikutnya, kita akan membuat clonenya di Github. Perlu kita perhatikan bahwa clone yang dimaksud di sini adalah membuat repository baru di Github berdasarkan repository lokal yang kita miliki. Kita bisa melakukannya dengan menggunakan perintah berikut **$ git remote add origin git@github.com:USERNAME/REPO_NAME.git**.
-- Setelah itu, kita akan melakukan **push** dengan menggunakan perintah **$ git push origin master**.
+- Berikutnya, kita akan membuat clonenya di Github. Perlu kita perhatikan bahwa clone yang dimaksud di sini adalah membuat repository baru di Github berdasarkan repository lokal yang kita miliki. Kita bisa melakukannya dengan menggunakan perintah berikut **$ git remote add origin https://github.com/adammaurizio/PRAKTIKUM_GIT.git**.
+- Setelah itu, kita akan melakukan **push** dengan menggunakan perintah **$ git push -u origin master**.
 - Terakhir, untuk memastikan saja, kita buka akun Github dan pastikan bahwa repository-nya sudah ada.

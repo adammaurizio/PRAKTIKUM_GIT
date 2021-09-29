@@ -2,7 +2,9 @@
 # Praktikum GIT & GITHUB
 
 Nama    : Adam Maurizio Winata
+
 NIM     : 162012133045
+
 Kelas   : Algoritma Pemrograman SD-A1
 
 # Langkah-Langkah:
